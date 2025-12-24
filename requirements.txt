@@ -1,0 +1,13 @@
+Jinja2==3.1.6
+langchain==0.3.27
+langchain-google-genai==2.0.8
+langgraph==0.6.1
+Markdown==3.8.2
+pdfkit==1.0.0
+pydantic==2.11.7
+python-dotenv==1.1.1
+streamlit==1.47.1
+typing_extensions==4.14.1
+weasyprint
+fastapi==0.115.6
+uvicorn==0.34.0
