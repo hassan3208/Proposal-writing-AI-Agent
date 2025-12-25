@@ -1,0 +1,17 @@
+{
+    "builds": [
+        {
+            "src": "app/main.py",
+            "use": "@vercel/python",
+            "config": {
+                "includeFiles": ["frontend/**"]
+            }
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "app/main.py"
+        }
+    ]
+}
