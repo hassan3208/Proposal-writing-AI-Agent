@@ -17,6 +17,9 @@ This project is built as a **modular, API-driven AI agent** designed for freelan
 
 ---
 
+<img width="2879" height="1519" alt="image" src="https://github.com/user-attachments/assets/52e59a36-d95b-4fb8-a857-0ba54c255802" />
+
+
 ## Project Structure
 
 ```text
